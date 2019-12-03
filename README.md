@@ -1,1 +1,2 @@
-# Jenkins-docker
+# Jenkins docker
+* Jenkins CI with docker client
